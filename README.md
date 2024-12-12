@@ -20,7 +20,7 @@ If you'd like to run it locally, the commands on your terminal are npm install, 
 ## Usage
     
 Check out the render deployment.
-[https://book-search-engine-v6kq.onrender.com](https://krazy-kanban-board-qtyw.onrender.com)
+[Funny render link](https://krazy-kanban-board-qtyw.onrender.com)
 
 ## License
 
